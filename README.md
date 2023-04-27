@@ -8,3 +8,6 @@ To build the port navigate to the root of this project and run `make`. This will
 Running requires you to have a modded wii with the Homebrew Channel installed.
 
 Create a folder called `/apps/3dSage-doom/` on your Wii's SD-Card. Copy `boot.dol` and your own `level.h` to this directory. In the HB Channel you should now be able to load `3dSage-doom`.
+
+## License
+All files within this repo are released under the MIT License as per the LICENSE file stored in the root of this repo.
