@@ -13,4 +13,4 @@ Create a folder called `/apps/3dSage-doom/` on your Wii's SD-Card. Copy `boot.do
 Hold the Wiimote sideways and use the DPAD to move, 1 and 2 to move only on the horizontal axis, and hold B + DPAD to look around and change the height.
 
 ## License
-All files within this repo are released under the MIT License as per the LICENSE file stored in the root of this repo.
+All files within this repo are released under the GNU GPL V3 License as per the LICENSE file stored in the root of this repo.
